@@ -6,3 +6,5 @@ PyCaret is an open-source, low-code machine learning library in Python that auto
 In comparison with the other open-source machine learning libraries, PyCaret is an alternate low-code library that can be used to replace hundreds of lines of code with few words only. This makes experiments exponentially fast and efficient. PyCaret is essentially a Python wrapper around several machine learning libraries and frameworks such as scikit-learn, XGBoost, LightGBM, CatBoost, spaCy, Optuna, Hyperopt, Ray, and many more.
 
 To learn about PyCaret let's look at the notebook attached. 
+
+You can check this PyCaret Documentation [here](https://pycaret.readthedocs.io/en/latest/index.html).

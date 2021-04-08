@@ -7,4 +7,4 @@ In comparison with the other open-source machine learning libraries, PyCaret is 
 
 To learn about PyCaret let's look at the notebook attached. 
 
-You can check this PyCaret Documentation [here](https://pycaret.readthedocs.io/en/latest/index.html).
+You can check the PyCaret Documentation [here](https://pycaret.readthedocs.io/en/latest/index.html).

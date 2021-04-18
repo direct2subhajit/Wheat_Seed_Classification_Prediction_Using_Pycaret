@@ -8,3 +8,5 @@ In comparison with the other open-source machine learning libraries, PyCaret is 
 To learn about PyCaret let's look at the notebook attached. 
 
 You can check the PyCaret Documentation [here](https://pycaret.readthedocs.io/en/latest/index.html).
+
+You can read this as a blog on [Medium](https://direct2subhajit.medium.com/wheat-seed-classification-prediction-using-pycaret-multiclass-classification-7a83aad5c086) and [Linkedin](https://www.linkedin.com/pulse/wheat-seed-classification-prediction-using-subhajit-mondal/?trackingId=Be2uFXJU4MG42iQRKXd9cA%3D%3D).
